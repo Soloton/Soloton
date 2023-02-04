@@ -2,6 +2,8 @@
 
 My name is Mikhail and I am backend developer.
 
+You can read this file in [Russian](README.ru-RU.md). 
+
 ## Contacts 🌐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arkhipov-ms)
