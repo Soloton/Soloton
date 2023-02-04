@@ -28,8 +28,7 @@ My name is Mikhail and I am backend developer.
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-#### База данных
-
+#### Database
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -55,6 +54,7 @@ My name is Mikhail and I am backend developer.
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # GitHub Stats 📊
+
 <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=soloton&include_all_commits=true&show_icons=true&hide=stars,issues&theme=dark" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api?username=soloton&include_all_commits=true&show_icons=true&hide=stars,issues" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />

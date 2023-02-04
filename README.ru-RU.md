@@ -51,6 +51,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # Статистика GitHub 📊
+
 <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=soloton&include_all_commits=true&show_icons=true&hide=stars,issues&locale=ru&card_width=500&theme=dark" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api?username=soloton&include_all_commits=true&show_icons=true&hide=stars,issues&locale=ru&card_width=500" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
