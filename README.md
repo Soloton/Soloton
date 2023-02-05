@@ -2,9 +2,7 @@
 
 My name is Mikhail and I am backend developer.
 
-🌐 You can read this file in [Russian](README.ru-RU.md). 
-
-## Connect with Me 🔗
+## Connect with Me 🌐
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc?logo=telegram&logoColor=white)](https://t.me/arkhipov-ms)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arkhipov-ms)
 
@@ -80,5 +78,9 @@ My name is Mikhail and I am backend developer.
     <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=soloton&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=soloton&layout=compact" />
 </picture></a>
+
+#### Weekly development breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![wakatime](https://wakatime.com/badge/user/25c83242-0a44-4d80-af00-0e342abaa6c6.svg)](https://wakatime.com/@25c83242-0a44-4d80-af00-0e342abaa6c6)
