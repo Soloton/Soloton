@@ -2,12 +2,11 @@
 
 Меня зовут Михаил и я бэкенд-разработчик
 
-Вы можете прочитать этот файл на [английском языке](README.md).
+🌐 Вы можете прочитать этот файл на [английском языке](README.md).
 
-## Контакты 🌐
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arkhipov-ms)
-[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-%23FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17388093)
+## Свяжитесь со мной 🔗
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc?logo=telegram&logoColor=white)](https://t.me/arkhipov-ms)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arkhipov-ms)
 
 # Стек технологий 💻
 
@@ -57,7 +56,7 @@
 <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=soloton&include_all_commits=true&show_icons=true&hide=stars,issues&locale=ru&card_width=500&theme=dark" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api?username=soloton&include_all_commits=true&show_icons=true&hide=stars,issues&locale=ru&card_width=500" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=soloton&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=soloton&include_all_commits=true&show_icons=true&hide=stars,issues&locale=ru&card_width=500" />
 </picture><br/>
 
 <picture>
