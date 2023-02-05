@@ -2,9 +2,9 @@
 
 My name is Mikhail and I am backend developer.
 
-## Connect with Me 🌐
-[![Telegram](https://img.shields.io/badge/Telegram-%230088cc?logo=telegram&logoColor=white)](https://t.me/arkhipov-ms)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arkhipov-ms)
+
+#### Connect with Me 
+[![Telegram](https://img.shields.io/badge/Telegram-%230088cc?logo=telegram&logoColor=white)](https://t.me/arkhipov_ms) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arkhipov-ms)
 
 # Tech stack 💻
 
