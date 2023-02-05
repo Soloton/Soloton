@@ -2,13 +2,11 @@
 
 My name is Mikhail and I am backend developer.
 
-You can read this file in [Russian](README.ru-RU.md). 
+🌐 You can read this file in [Russian](README.ru-RU.md). 
 
-## Contacts 🌐
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arkhipov-ms)
-[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-%23FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17388093)
+## Connect with Me 🔗
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc?logo=telegram&logoColor=white)](https://t.me/arkhipov-ms)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arkhipov-ms)
 
 # Tech stack 💻
 
@@ -60,7 +58,7 @@ You can read this file in [Russian](README.ru-RU.md).
 <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=soloton&include_all_commits=true&show_icons=true&hide=stars,issues&theme=dark" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api?username=soloton&include_all_commits=true&show_icons=true&hide=stars,issues" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=soloton&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=soloton&include_all_commits=true&show_icons=true&hide=stars,issues" />
 </picture><br/>
 
 <picture>
