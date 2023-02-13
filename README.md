@@ -54,6 +54,12 @@ My name is Mikhail and I am backend developer.
 # GitHub Stats 📊
 
 <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=Soloton&include_all_commits=true&count_private=true&show_icons=true&hide=stars,issues&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=Soloton&include_all_commits=true&count_private=true&show_icons=true&hide=stars,issues" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img width="0" height="0" src="https://github-readme-stats.vercel.app/api?username=Soloton&include_all_commits=true&count_private=true&show_icons=true&hide=stars,issues" />
+</picture><br/>
+
+<picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=soloton&include_all_commits=true&show_icons=true&hide=stars,issues&theme=dark" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api?username=soloton&include_all_commits=true&show_icons=true&hide=stars,issues" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://github-readme-stats.vercel.app/api?username=soloton&include_all_commits=true&show_icons=true&hide=stars,issues" />
