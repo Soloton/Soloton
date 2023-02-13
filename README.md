@@ -55,27 +55,11 @@ My name is Mikhail and I am backend developer.
 
 <div align="center">
 <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=soloton&include_all_commits=true&show_icons=true&hide=stars,issues&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=soloton&include_all_commits=true&show_icons=true&hide=stars,issues" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=soloton&include_all_commits=true&show_icons=true&hide=stars,issues" />
-</picture>
-</div><br/>
-
-<div align="center">
-<picture>
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=soloton&theme=dark" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=soloton" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=soloton" />
 </picture>
-</div><br/>
-
-<div align="center">
-<picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=soloton&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=soloton&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soloton&layout=compact" />
-</picture>
-</div><br/>
+</div>
 
 # Wakatime Stats 📊
 
