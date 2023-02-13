@@ -53,37 +53,40 @@ My name is Mikhail and I am backend developer.
 
 # GitHub Stats 📊
 
-<picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Soloton&include_all_commits=true&count_private=true&show_icons=true&hide=stars,issues&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Soloton&include_all_commits=true&count_private=true&show_icons=true&hide=stars,issues" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img width="0" height="0" src="https://github-readme-stats.vercel.app/api?username=Soloton&include_all_commits=true&count_private=true&show_icons=true&hide=stars,issues" />
-</picture><br/>
-
+<div align="center">
 <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=soloton&include_all_commits=true&show_icons=true&hide=stars,issues&theme=dark" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api?username=soloton&include_all_commits=true&show_icons=true&hide=stars,issues" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://github-readme-stats.vercel.app/api?username=soloton&include_all_commits=true&show_icons=true&hide=stars,issues" />
-</picture><br/>
+</picture>
+</div><br/>
 
+<div align="center">
 <picture>
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=soloton&theme=dark" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=soloton" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=soloton" />
-</picture><br/>
+</picture>
+</div><br/>
 
+<div align="center">
 <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=soloton&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=soloton&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soloton&layout=compact" />
-</picture><br/>
+</picture>
+</div><br/>
 
 # Wakatime Stats 📊
+
+<div align="center">
 <a href="https://wakatime.com/@25c83242-0a44-4d80-af00-0e342abaa6c6">
 <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=soloton&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=soloton&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=soloton&layout=compact" />
 </picture></a>
+</div><br/>
 
 #### Weekly development breakdown
 <!--START_SECTION:waka-->
