@@ -54,23 +54,22 @@ My name is Mikhail and I am backend developer.
 # GitHub Stats 📊
 
 <div align="center">
-<picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=soloton&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=soloton" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=soloton" />
-</picture>
+
+![dark](https://github-readme-streak-stats.herokuapp.com/?user=soloton&theme=dark#gh-dark-mode-only#gh-dark-mode-only)
+
+![light](https://github-readme-streak-stats.herokuapp.com/?user=soloton#gh-light-mode-only)
+
 </div>
 
 # Wakatime Stats 📊
 
 <div align="center">
-<a href="https://wakatime.com/@25c83242-0a44-4d80-af00-0e342abaa6c6">
-<picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=soloton&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=soloton&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=soloton&layout=compact" />
-</picture></a>
-</div><br/>
+
+![dark](https://github-readme-stats.vercel.app/api/wakatime?username=soloton&layout=compact&theme=dark#gh-dark-mode-only)
+
+![light](https://github-readme-stats.vercel.app/api/wakatime?username=soloton&layout=compact#gh-light-mode-only)
+
+</div>
 
 #### Weekly development breakdown
 <!--START_SECTION:waka-->
@@ -88,4 +87,4 @@ Markdown         25 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-[![wakatime](https://wakatime.com/badge/user/25c83242-0a44-4d80-af00-0e342abaa6c6.svg)](https://wakatime.com/@25c83242-0a44-4d80-af00-0e342abaa6c6)
+[![wakatime](https://wakatime.com/badge/user/25c83242-0a44-4d80-af00-0e342abaa6c6.svg?style=plastic)](https://wakatime.com/@25c83242-0a44-4d80-af00-0e342abaa6c6)
