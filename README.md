@@ -2,9 +2,9 @@
 
 My name is Mikhail and I am backend developer.
 
-
 #### Connect with Me 
-[![Telegram](https://img.shields.io/badge/Telegram-%230088cc?logo=telegram&logoColor=white)](https://t.me/arkhipov_ms) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arkhipov-ms?original_referer=arkhipov-ms)
+[![Telegram](https://img.shields.io/badge/Telegram-%230088cc?logo=telegram&logoColor=white)](https://t.me/arkhipov_ms) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arkhipov-ms?original_referer=arkhipov-ms) [![wakatime](https://wakatime.com/badge/user/25c83242-0a44-4d80-af00-0e342abaa6c6.svg?)](https://wakatime.com/@25c83242-0a44-4d80-af00-0e342abaa6c6)
+
 
 # Tech stack 💻
 
@@ -87,4 +87,3 @@ Bash             0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-[![wakatime](https://wakatime.com/badge/user/25c83242-0a44-4d80-af00-0e342abaa6c6.svg?style=plastic)](https://wakatime.com/@25c83242-0a44-4d80-af00-0e342abaa6c6)
