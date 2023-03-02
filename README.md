@@ -58,7 +58,7 @@ My name is Mikhail and I am backend developer.
         <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=soloton&theme=dark#gh-dark-mode-only#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=soloton#gh-light-mode-only" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=soloton" />
-    </picture><br/>
+    </picture>
 </div>
 
 # Wakatime Stats 📊
@@ -68,7 +68,7 @@ My name is Mikhail and I am backend developer.
         <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=soloton&layout=compact&theme=dark#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=soloton&layout=compact#gh-light-mode-only" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=soloton&layout=compact" />
-    </picture></a>
+    </picture>
 </div>
 
 #### Weekly development breakdown
