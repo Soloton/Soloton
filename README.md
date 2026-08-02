@@ -77,7 +77,7 @@ My name is Mikhail and I am backend developer.
 ```txt
 Total Time: 0 secs
 
-Other   0 secs                ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
